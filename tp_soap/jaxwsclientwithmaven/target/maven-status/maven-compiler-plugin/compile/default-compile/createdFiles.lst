@@ -1,0 +1,14 @@
+stub\GetAllResponse.class
+stub\ObjectFactory.class
+stub\EcommerceWS.class
+stub\package-info.class
+stub\GetByIdResponse.class
+stub\ArticleSoapController.class
+stub\SaveArticleResponse.class
+stub\GetAll.class
+ma\formations\soap\Main.class
+stub\DeleteByIdResponse.class
+stub\GetById.class
+stub\Article.class
+stub\DeleteById.class
+stub\SaveArticle.class
